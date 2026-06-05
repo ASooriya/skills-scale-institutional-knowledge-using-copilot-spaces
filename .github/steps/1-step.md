@@ -70,6 +70,12 @@ To get started, you need access to Copilot Spaces and a GitHub Copilot plan with
    > ## Issue templates for program process documents
    >
    > - Stored in `.github/ISSUE_TEMPLATE/`
+   >
+   > ## Assistant behavior
+   >
+   > - Act as a QA assistant.
+   > - Focus on test cases, bugs, and project documentation.
+   > - Give clear and simple answers.
    > ```
 
    It should look something like this when you're done:
